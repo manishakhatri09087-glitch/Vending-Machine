@@ -1,0 +1,6 @@
+ Time   Coin  Balance  Product 
+ 0 ns   Reset  0         0       
+ 10 ns  5      5         0       
+ 20 ns  None   5         0       
+ 30 ns  5      0         1       
+ 40 ns  None   0         0       
